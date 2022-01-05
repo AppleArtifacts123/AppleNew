@@ -2,7 +2,7 @@
   "CONTRACT_ADDRESS": "0x875Ea19382da2460E0ED0631Fb5D7d70c6899B3a",
   "SCAN_LINK": "https://polygonscan.com/token/0x875ea19382da2460e0ed0631fb5d7d70c6899b3a",
   "NETWORK": {
-    "NAME": "Polygon",
+    "NAME": "Ethereum",
     "SYMBOL": "Ether",
     "ID": 137
   },
