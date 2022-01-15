@@ -2,8 +2,8 @@
   "CONTRACT_ADDRESS": "0x875Ea19382da2460E0ED0631Fb5D7d70c6899B3a",
   "SCAN_LINK": "https://polygonscan.com/token/0x875Ea19382da2460E0ED0631Fb5D7d70c6899B3a",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "Ether",
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
     "ID": 137
   },
   "NFT_NAME": "Apple Artifafcts",
